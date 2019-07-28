@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    tools:ignore="AppCompatResource"
+    android:id="@+id/action_refresh"
+    android:enabled="true"
+    android:title="@string/refresh_button_title"
+    android:visible="true"
+    android:showAsAction="always"
+    android:icon="@drawable/ic_menu_refresh" />
+</menu>

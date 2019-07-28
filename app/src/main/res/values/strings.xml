@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="refresh_button_title">Refresh</string>
+    <string name="loading_message">Loading...</string>
+    <string name="calendar_button_title">Calendar</string>
+    <string name="user_schedule_button_title">User Schedule</string>
+    <string name="done_button_title">Done</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="title_activity_user_schedule">UserScheduleActivity</string>
+</resources>
